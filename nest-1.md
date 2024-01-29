@@ -4,7 +4,7 @@ class:
   - lead
   - invert
 marp: true
-footer: mail.kushagra.acharya@gmail.com | S1
+footer: mail.kushagra.acharya@gmail.com || S1
 paginate: true
 ---
 
